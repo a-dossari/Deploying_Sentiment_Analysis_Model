@@ -1,4 +1,4 @@
-# Face Generation
+# Deploying Sentiment Analysis Model
 
 ### Project Overview
 
